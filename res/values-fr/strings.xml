@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Courrier</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="hello_world">Bonjour!</string>
+    <string  name="seeking">Recherche en cours</string>
+    <string  name="mail">prénom.nom@domaine.tld</string>
+    <string name="host_or_username">Merci de changer l\'hôte ou l\'utilisateur</string>
+    <string name="sorry">Désolé, l\'information n\'est pas correcte</string>
+    <string name="done">Fait</string>
+    <string name="protocol">protocole.domaine.tld</string>
+
+</resources>

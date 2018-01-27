@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">البريد</string>
+    <string name="action_settings">إعدادات</string>
+    <string name="hello_world">مرحبا</string>
+    <string  name="seeking">تسعى</string>
+    <string  name="mail">firstname.lastname@domain.tld</string>
+    <string name="host_or_username">من فضلك، تغيير البيانات</string>
+    <string name="sorry">آسف، لم تكن المعلومات صحيحة</string>
+    <string name="done">القيام به</string>
+    <string name="protocol">protocol.domain.tld</string>
+
+</resources>

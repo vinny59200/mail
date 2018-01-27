@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Yóujiàn</string>
+    <string name="action_settings">Shèzhì</string>
+    <string name="hello_world">Nǐ hǎo</string>
+    <string  name="seeking">Sōusuǒ</string>
+    <string  name="mail">firstname.lastname@domain.tld</string>
+    <string name="host_or_username">Qǐng gēnggǎi shùjù</string>
+    <string name="sorry">Hěn bàoqiàn, gāi xìnxī shì bù zhèngquè de</string>
+    <string name="done">Zuò</string>
+    <string name="protocol">protocol.domain.tld</string>
+
+</resources>
